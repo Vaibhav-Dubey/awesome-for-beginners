@@ -61,6 +61,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit/labels/help%20wanted) _(label: help wanted)_ <br> A toolkit for real-time audio streaming over the network.
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ <br> Computation using data flow graphs for scalable machine learning
 - [Yugabyte DB](https://github.com/yugabyte/yugabyte-db/labels/good%20first%20issue) _(label: good first issue)_ <br> Distributed SQL database.
+-[gamedev_libraries](https://github.com/raizam/gamedev_libraries/good%20first%20issue) _(label: good first issue)_<br> A Collection of C/C++ libraries for game development.
+-[awesome-cpp](https://github.com/fffaraz/awesome-cpp/good%20first%20issue) _(label: good first issue)_<br> A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
 
 ## Clojure
 
@@ -73,7 +75,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## CSS
 
 - [sButtons](https://github.com/shahednasser/sbuttons/labels/good%20first%20issue) _(label: good first issue)_ <br> Simple buttons you can easily use for your next project.
-
+- [animateCss](https://github.com/animate-css/animate.css/good%20first%20issue) _(label: good first issue)_ <br> A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [loaders.css](https://github.com/ConnorAtherton/loaders.css/good%20first%20issue) _(label: good first issue)_ <br> Delightful and performance-focused pure css loading animations.
 ## Dart
 
 - [dart.dev](https://github.com/dart-lang/site-www/labels/beginner) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
@@ -306,6 +309,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 ## Swift
 
 - [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios/labels/help%20wanted) _(label: help wanted)_ <br>Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
+- [tensorflow/swift](https://github.com/tensorflow/swift/good%20first%20issue) _(label: good first issue)_ <br> TensorFlow for Swift
 
 ## TypeScript
 
